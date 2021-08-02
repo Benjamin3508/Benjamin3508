@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Benjamin3508
-- 👀 I’m interested in machine Learning with Python
+- 👀 I’m interested in machine Learning with Python and quantitative trading
 - 🌱 I’m currently learning Financial Engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
